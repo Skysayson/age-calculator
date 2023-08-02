@@ -1,6 +1,4 @@
-TAILWIND
+Created with tailwindcss.
+https://tailwindcss.com/docs/installation
 
-npm install -D tailwindcss
-npx tailwindcss init
-
-npx tailwindcss -i ./src/input.css -o ./age-calculator/output.css --watch
+FRONT-END MENTOR SOLUTION
